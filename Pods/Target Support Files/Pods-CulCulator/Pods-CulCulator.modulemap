@@ -1,0 +1,6 @@
+framework module Pods_CulCulator {
+  umbrella header "Pods-CulCulator-umbrella.h"
+
+  export *
+  module * { export * }
+}
